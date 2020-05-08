@@ -1,0 +1,345 @@
+body{
+    overflow-x: hidden ;
+}
+/* div{
+    display: block;
+} */
+.tophead{
+    margin-top: 0px;
+    background-color: #316dc3;
+    color: aliceblue;
+    padding: 10px 0px;
+}
+#icon{
+    padding-left: 40px;
+    display: inline-block;
+    position: absolute;
+}
+.second{
+    background-color: white;
+}
+i{
+    padding-left: 20px;
+}
+p{
+    font-family: sans-serif;
+   margin-top: 0px;
+    display: inline-block;
+    position: absolute;
+    padding-left: 360px;
+}
+button{
+    border: 1px solid black;
+    color: #427900;
+    padding: 2px 5px;
+}
+i:hover{
+    background-color: rgb(33, 105, 204) ;
+    cursor: pointer;
+}
+/* #home{
+    margin-top: 0px;
+    padding-left: 550px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+} */
+#u{
+    margin-left: 980px;
+}
+/* .second >img{
+    position: absolute;
+    list-style: none;
+    padding-left: 60px;
+    margin-top: 0px;
+}
+#home > button{
+    padding: 7px 12px;
+    border: none;
+  background-color: inherit;
+  margin: 20px 5px;
+  font-size: 15px;
+  font-weight: bold;
+  color: black;
+  cursor: pointer;
+  display: inline-block;
+    border-radius: 14px;
+}
+#home > button:hover{
+    padding: 7px 12px;
+    background-color: #316dc3;
+    cursor: pointer;
+    border-radius: 14px;
+    color: white;
+} */
+
+.home-button{
+    border-radius: 20px;
+    height: 40px;
+    width: 90px;
+    background-color: #316dc3;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+.media-btn{
+    border-radius: 20px;
+    height: 40px;
+    width: 80px;
+    border: none;
+    cursor: pointer;
+    background-color: #F7F8FA;
+    color:black;
+}
+
+.media-btn:hover{
+    background-color: #316dc3;
+    color: white;   
+}
+
+#navbarDropdownMenuLink{
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    color:black;
+}
+
+#navbarDropdownMenuLink:hover{
+     background-color: #316dc3;
+     color: white; 
+}
+
+#saylani-logo{
+    height: 59px;
+    position: relative;
+    left: -4px;
+}
+nav{
+    background-color: #F7F8FA;
+    /* position: fixed; */
+    /* box-shadow: 10px 10px 10px #F7F8FA; */
+}
+
+#navbar{
+    background-color: #F7F8FA;
+    width: 1530px;
+}
+
+#moving-btn{
+    padding-left: 428px;
+}
+
+
+
+.h{
+    background-color: #316dc3!important;
+    color: white!important;
+}
+.carousel-slide > img{
+margin-left: 0px ;
+}
+.hh{
+    margin: 10px 60px;
+    padding: 3px;
+    height: 35px;
+    background-color: #316dc3;
+    font-size: 15px!important; 
+    color: white!important;
+}
+#da{
+    color: #0cdc2f ;
+}
+#de{
+    color: #0000ff;
+}
+p.intro{
+    padding-bottom: 0px;
+    margin-top: 100px;
+    margin-left: 145px;
+    margin-bottom: 0px;
+     font-weight: bolder;
+    font: 32px merriweather bolder serif;
+}
+#in{
+    color: #316dc3;
+}
+#duc{
+    color: #427900;
+}
+.int{
+    margin-top: 100px;
+    padding-top: 46px;
+    margin-left: 39%;
+    
+}
+#par{
+    text-align: justify;
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    color:#7f7f7f;
+    padding-left: 170px;
+    padding-right: 170px;
+}
+.para1 {
+    background: #f7f8fa;
+    padding-top: 20px;
+    padding-bottom: 50px;
+} 
+.tabl{
+    padding-top: 20px;
+    overflow: hidden;
+    padding-left: 30px;
+    border-spacing: 90px;
+    width: 100%;
+    margin-top: 400px ;
+    background-color: #2755e9;
+}
+.box1 , .box2 , .box3 , .box4{
+    padding: 70px 0;
+    line-height: 1.42857143;
+    text-align: center;
+    color: white;
+}
+.m{
+    color: #00ff00;;
+}
+.last{
+    text-transform: uppercase;
+    font: 32px merriweather serif;
+}
+#we{
+    color: #316dc3;
+}
+#wh{
+    color: #427900;
+}
+h2.doing{
+    padding-bottom: 0px;
+    padding-top: 70px;
+    margin-left: 475px;
+    margin-bottom: 0px;
+     font-weight: bolder;
+    font: 32px merriweather bolder serif;   
+}
+.doimg{
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-left: 40%;
+}
+.main1 , .main2 {
+    margin: 0px 83px;
+    padding-top: 10px;
+}
+.b1 , .b2 , .b3 {
+    background-color: #ffffff;
+    text-align: center;
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+     padding: 0px 15px;
+    padding: 30px; 
+    box-sizing: border-box;
+    margin: 20px !important;
+    width: 400px;
+}
+.b4 , .b5 , .b6  {
+    background-color: #ffffff;
+    text-align: center;
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+    padding: 0px 15px;
+    padding: 30px; 
+    box-sizing: border-box;
+    margin: 20px !important;
+    position: relative; 
+    width: 400px;
+}
+.mission > h1 {
+    display: block;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.projects {
+    border: 1px solid rgb(236, 234, 234);
+    background-color: rgba(238, 238, 238, 0.349);
+    display: flex;
+    width: 350px;
+    height: 74px;
+}
+.text {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.container {
+    margin-top: 300px;
+}
+.imgg{
+    padding-bottom: 0px;
+    padding-top: 70px;
+    margin-left: 450px;
+    margin-bottom: 0px;
+     font-weight: bolder;
+    font: 32px merriweather bolder serif; 
+}
+.galimg{
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-left: 42%;
+}
+
+           /* contact */
+.lmain{
+    background-color: #25272e ;
+    display: flex;
+    color: #b3b3b4;
+}
+.headofc > ul{
+    list-style-type: none;
+}
+#fa{
+    color: #427900;
+}
+.uselink{
+    margin: 50px 150px;
+}
+
+.connectus{
+    margin: 50px 150px;
+}
+.faa{
+    font: normal normal normal 14px/1 FontAwesome; 
+}
+
+/* copyright  */
+
+.copyright{
+    overflow-y: hidden;
+    height: 40px;
+    background-color: #316DD9;
+    padding-bottom: 8px;
+    padding-top: 8px;
+}
+.c{
+    position: relative;
+    min-height: 1px; 
+    margin-left: 45px;
+    padding-left: 10px; 
+}
+
+.scrollToTop {
+    background: rgba(14, 13, 13, 0.281);
+    bottom: 15px;
+    height: 30px;
+    color: white;
+    padding: 2px;
+    position: fixed;
+    right: 10px;
+    text-align: center;
+    text-decoration: none;
+    width: 40px;
+    z-index: 99999;
+}
